@@ -1,0 +1,2 @@
+(this.webpackJsonpcurrency_app=this.webpackJsonpcurrency_app||[]).push([[0],{35:function(e,c,t){"use strict";t.r(c);var n=t(0),r=t.n(n),s=t(30),j=t.n(s),a=t(14),i=t(31),p=t(34),b=t(1),d=function(){return Object(b.jsxs)("div",{children:[Object(b.jsx)(i.a,{}),Object(b.jsx)(p.a,{})]})};j.a.render(Object(b.jsx)(r.a.StrictMode,{children:Object(b.jsx)(a.a,{children:Object(b.jsx)(d,{})})}),document.getElementById("root"))}},[[35,1,2]]]);
+//# sourceMappingURL=main.5a3ac129.chunk.js.map
