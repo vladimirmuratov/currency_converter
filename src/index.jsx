@@ -8,7 +8,7 @@ import Content from 'components/content'
 
 const App = () => {
     return (
-        <div>
+        <div className='container'>
             <Header/>
             <Content/>
         </div>
